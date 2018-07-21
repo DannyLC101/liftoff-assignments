@@ -13,9 +13,9 @@ Also they will be able to see their medical reports anytime and chat/enquire wit
 which can save time of going to-and-fro to the clinic.
 
 ### Features
-User Login -  where patients can sign up and book appointment. Also they can see their reports or feedback of their visit
-Doctor Login - where doctor can review patients reports and give feedback/chat with patient
-Admin Login - where administrator can review and confirm the appointment and post reports for patients
+##User Login -  where patients can sign up and book appointment. Also they can see their reports or feedback of their visit.
+##Doctor Login - where doctor can review patients reports and give feedback/chat with patient.
+##Admin Login - where administrator can review and confirm the appointment and post reports for patients.  
 
 ### Technologies
 Java
