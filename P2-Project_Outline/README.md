@@ -7,11 +7,26 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+In existing system, patient has to give a phone call to schedule an appointment which causes delays and its time consuming too.
+This system will allow patients to book appointment online with the ease of their time and will give flexibility to cancel/edit it.
+Also they will be able to see their medical reports anytime and chat/enquire with doctor/nurse about the medical condition
+which can save time of going to-and-fro to the clinic.
+
 ### Features
-Include Features here
+User Login -  where patients can sign up and book appointment. Also they can see their reports or feedback of their visit
+Doctor Login - where doctor can review patients reports and give feedback/chat with patient
+Admin Login - where administrator can review and confirm the appointment and post reports for patients
+
 ### Technologies
-Include Technologies here
+Java
+Javascript
+HTML/CSS
+Spring MVC
+Bootstrap
+Thymeleaf templates
+MySQL
+Hibernate
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+For scheduler/calender functionality, I'll need to learn scheduling web application and calender with HTML/CSS along with Java/Javascript.
+Also I need to learn saving png file in SQL in order to generate report system.
